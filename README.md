@@ -1,4 +1,4 @@
-# finalpython
+#Weather application in python
 
 SIMPLE WEATHER APP WHICH UTILISES https://openweathermap.org/current API
 
